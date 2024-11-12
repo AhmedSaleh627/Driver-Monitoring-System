@@ -94,7 +94,7 @@ while True:
     drowsy_detected = False
     for result in results:
         for box in result.boxes:
-            # Assuming '1' is the class ID for drowsiness (adjust based on your model's labels)
+            # '1' is the class ID for drowsiness
             if box.cls == 1 and box.conf >= 0.7:  # Only trigger if confidence is above 0.7
                 drowsy_detected = True
                 break
