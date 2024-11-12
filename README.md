@@ -113,7 +113,6 @@ Below are the graphs that illustrate the model's performance:
   git clone https://github.com/<your-username>/Driver-Monitoring-System.git
   cd Driver-Monitoring-System  
 ```
-Usage
 Place the YOLOv8 model file (best.pt) in the root directory.
 Run the script:
 ```bash
@@ -121,7 +120,6 @@ python DMS.py
 ```
 
 ## Future Enhancements
-- Add support for multi-driver detection in shared vehicle scenarios.  
 - Incorporate more robust environmental handling (e.g., low light, occlusions).  
 - Handling Wearing Sun Glasses
 - Integrating this into our Infotainment system
