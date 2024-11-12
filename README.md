@@ -123,6 +123,5 @@ python DMS.py
 ## Future Enhancements
 - Add support for multi-driver detection in shared vehicle scenarios.  
 - Incorporate more robust environmental handling (e.g., low light, occlusions).  
-- Extend to detect other dangerous behaviors (e.g., texting while driving).
 - Handling Wearing Sun Glasses
 - Integrating this into our Infotainment system
