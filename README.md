@@ -5,6 +5,7 @@
 2. [Features](#features)
 3. [Dataset](#dataset)
    - [Example Images](#example-images)
+5. [Kaggle Code for Training](#kaggle-code-for-training)
 4. [Model Metrics](#model-metrics)
    - [Model Metrics Graphs](#model-metrics-graphs)
 6. [Technologies Used](#technologies-used)
@@ -45,6 +46,9 @@ The model was trained on a custom dataset of **10,000+ images**, including:
 
 
 ---
+## Kaggle Code for Training
+This code provides the training process using YOLOv8, You can view and run the code directly from this link:
+https://www.kaggle.com/code/ahmedsaleh627/notebook001d26f6f9
 
 ## Model Metrics
 The system was trained on the YOLOv8 architecture with the following metrics:
