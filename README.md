@@ -114,12 +114,11 @@ Below are the graphs that illustrate the model's performance:
   cd Driver-Monitoring-System  
 ```
 Usage
-Place your YOLOv8 model file (best.pt) in the root directory.
+Place the YOLOv8 model file (best.pt) in the root directory.
 Run the script:
 ```bash
 python DMS.py
 ```
-Press q to quit the live inference.
 
 ## Future Enhancements
 - Add support for multi-driver detection in shared vehicle scenarios.  
