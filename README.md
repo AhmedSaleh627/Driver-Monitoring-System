@@ -18,7 +18,9 @@
 ---
 
 ## Overview
-The **Driver Monitoring System (DMS)** is an AI-powered solution designed to detect drowsy driving behavior in real-time. By leveraging a YOLOv8-based model, the system identifies signs of driver drowsiness and sends an alert if the driver remains unresponsive. This project integrates deep learning, computer vision, and IoT technologies to enhance road safety.
+The **Driver Monitoring System** is designed to detect various states of driver unresponsiveness, including drowsiness, sleep, or even if the driver is unresponsive (dead). Using a YOLOv8-based model for real-time detection, the system identifies signs of these conditions.
+
+When the system detects potential drowsiness, sleep, or unresponsiveness, it triggers an alert prompting the driver to press a button for 3 seconds to confirm they are awake. If the driver presses the button within this time frame, the system determines that the driver is alert. However, if the driver fails to respond within the 3-second window, the system automatically triggers a call to emergency services or a pre-designated contact, including the driver's location to ensure prompt assistance.
 
 ---
 
