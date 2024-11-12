@@ -111,4 +111,4 @@ python DMS.py
 ## Future Enhancements
 - Incorporate more robust environmental handling (e.g., low light, occlusions).  
 - Handling Wearing Sun Glasses
-- Integrating this into our Infotainment system
+- Integrating this into our Infotainment system instead of using Tkinter as our GUI.
