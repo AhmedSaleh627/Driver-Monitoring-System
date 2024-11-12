@@ -4,15 +4,11 @@
 1. [Overview](#overview)
 2. [Features](#features)
 3. [Dataset](#dataset)
-   - [Example Images](#example-images)
 5. [Kaggle Code for Training](#kaggle-code-for-training)
 4. [Model Metrics](#model-metrics)
-   - [Model Metrics Graphs](#model-metrics-graphs)
 6. [Technologies Used](#technologies-used)
 7. [How It Works](#how-it-works)
 8. [Installation](#installation)
-   - [Prerequisites](#prerequisites)
-   - [Clone the Repository](#clone-the-repository)
 9. [Future Enhancements](#future-enhancements)
 
 ---
@@ -51,13 +47,6 @@ This code provides the training process using YOLOv8, You can view and run the c
 https://www.kaggle.com/code/ahmedsaleh627/notebook001d26f6f9
 
 ## Model Metrics
-The system was trained on the YOLOv8 architecture with the following metrics:
-- **Precision:** 95%
-- **Recall:** 95%
-- **mAP@50:** 98%
----
-### Model Metrics Graphs
-Below are the graphs that illustrate the model's performance:
 
 - **Training Results:**
 
