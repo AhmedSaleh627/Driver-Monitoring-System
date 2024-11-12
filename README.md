@@ -28,9 +28,7 @@ When the system detects potential drowsiness, sleep, or unresponsiveness, it tri
 - Real-time drowsiness detection using a YOLOv8 custom-trained model.
 - Audible alarm to notify the driver.
 - Intuitive GUI for user interaction, allowing the driver to cancel the alert.
-- Automated emergency alert system with location tracking and Twilio API integration for SMS or call notifications.
-- Failsafe mechanism: Sends an alert with location details if the driver fails to respond.
-
+- Automated emergency call alert system with the driver's location and details if the driver fails to respond. using Twilio and LocationIQ.
 ---
 
 ## Dataset
