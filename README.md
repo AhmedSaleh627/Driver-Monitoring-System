@@ -1,4 +1,4 @@
-# Driver Monitoring System (DMS)
+# Driver Monitoring System
 
 ## Table of Contents
 1. [Overview](#overview)
